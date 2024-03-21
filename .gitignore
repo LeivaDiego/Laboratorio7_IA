@@ -50,3 +50,7 @@ package.nls.*.json
 l10n/
 # Virtual Environment
 venv/
+
+# Jupyter Notebook test q learning
+q_learning.ipynb
+submission.py
